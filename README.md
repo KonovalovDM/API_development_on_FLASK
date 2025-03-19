@@ -15,7 +15,7 @@
  ```bash
     pip install requirements.txt
 ````
-Можно делать по отдельности
+Можно делать по отдельности<br>
 2. Установите необходимые зависимости:
    ```bash
    pip install Flask Flask-SQLAlchemy
